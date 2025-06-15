@@ -51,11 +51,13 @@ This project is a **Playwright-based TypeScript automation suite** designed to v
    npx playwright test
 
 3. **- Run specific test file**
- ```bash
+   ```bash
    npx playwright test tests/buzz.spec.ts
+
 
 4. **View HTML Report**
  ```bash
    npx playwright show-report
+
 
 
